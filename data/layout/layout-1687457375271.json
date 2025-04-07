@@ -1,0 +1,28 @@
+{
+  "template" : [ {
+    "name" : "Кепчук",
+    "hourStart" : 17,
+    "minuteStart" : 52,
+    "days" : [ 2, 4, 5, 6 ],
+    "soundId" : -1
+  }, {
+    "name" : "Ловкий",
+    "hourStart" : 20,
+    "minuteStart" : 22,
+    "days" : [ 4, 7 ],
+    "soundId" : -1
+  }, {
+    "name" : "Красивый",
+    "hourStart" : 20,
+    "minuteStart" : 21,
+    "days" : [ 7 ],
+    "soundId" : -1
+  }, {
+    "name" : "Веселый",
+    "hourStart" : 20,
+    "minuteStart" : 1,
+    "days" : [ 1 ],
+    "soundId" : -1
+  } ],
+  "sounds" : { }
+}

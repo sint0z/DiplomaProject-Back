@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "partitioncount",
+      "type": "java.lang.String",
+      "description": "Description for partitioncount."
+  }
+] }
